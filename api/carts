@@ -1,1 +1,0 @@
-{"carts":[{"id":1,"lineItem_ids":[1,2,3]}],"line_items":[{"id":1,"menuItem":1,"qty":1,"cart_id":1},{"id":2,"menuItem":2,"qty":3,"cart_id":1},{"id":3,"menuItem":3,"qty":4,"cart_id":1}],"menu_items":[{"id":1,"name":"Steak","price":1999},{"id":2,"name":"Lobster","price":2999},{"id":3,"name":"Beers","price":499}]}
